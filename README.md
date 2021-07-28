@@ -17,10 +17,10 @@ pip install -r requirements.txt
 ```
 # Directories
 .
-├── Natural_UAP
-└── datasets
-    ├── ILSVRC2012
-    └── open-images-dataset
+└── Natural_UAP
+    └── datasets
+        ├── ILSVRC2012
+        └── open-images-dataset
 ```
 
 #### ImageNet Dataset
