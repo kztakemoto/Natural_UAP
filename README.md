@@ -1,6 +1,12 @@
 # Natural UAP
 
-This repository contains the codes used in our study on *Natural images allow universal adversarial attacks on medical image classification using deep neural networks with transfer learning*.
+This repository contains the codes used in our study on [*Natural images allow universal adversarial attacks on medical image classification using deep neural networks with transfer learning*](https://doi.org/10.21203/rs.3.rs-757225/v1).
+
+# Terms of use
+
+MIT licensed. Happy if you cite our preprint when using the codes:
+
+Minagi A, Hirano H & Takemoto K (2021) Natural images allow universal adversarial attacks on medical image classification using deep neural networks with transfer learning. PREPRINT (Version 1) available at Research Square. doi:10.21203/rs.3.rs-757225/v1
 
 ## Usage
 
