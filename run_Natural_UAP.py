@@ -63,6 +63,7 @@ start_time = time.time()
 # norm_type: 2 or np.inf, norm type of UAPs
 # norm_size: float, noise size (xi)
 # fgsm_eps: float, Fattack step size of FGSM
+# uap_iter: int, maximum number of iterations for computing UAP.
 # targeted: int, target class (negative value indicates non-targeted attacks)
 # save_path: str, path to output files 
 class my_UAP:
