@@ -59,9 +59,9 @@ start_time = time.time()
 # y_train: ndarray, the labels of the training images
 # X_test: ndarray, test images
 # y_test: ndarray, the labels of the test images
-# X_materials_paths: array, ath to the directory storing natural images
+# X_materials_paths: array, path to the directory storing natural images
 # norm_type: 2 or np.inf, norm type of UAPs
-# norm_rate: float, noise strength (zeta)
+# norm_size: float, noise size (xi)
 # fgsm_eps: float, Fattack step size of FGSM
 # targeted: int, target class (negative value indicates non-targeted attacks)
 # save_path: str, path to output files 
